@@ -1,6 +1,3 @@
-I'll help you create a standard Code of Conduct file using the Contributor Covenant, which is widely adopted in open source projects.
-
-```markdown:CODE_OF_CONDUCT.md
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
