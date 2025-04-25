@@ -12,9 +12,10 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 | Category | Description | Link |
 |----------|-------------|------|
-| Focus Areas | Explore our expertise in Testing, QA, and DevOps | [Explore →](focus-areas.md) |
-| Trending Topics | Current industry trends and insights | [Learn More →](trending-topics.md) |
-| Community | Join our growing community | [Get Involved →](community-links.md) |
+| Focus Areas | Explore our expertise in Testing, QA, and DevOps | [Explore →](https://github.com/testified/.github/blob/main/profile/focus-areas.md) |
+| Trending Topics | Current industry trends and insights | [Learn More →](https://github.com/testified/.github/blob/main/profile/trending-topics.md) |
+| Community | Join our growing community | [Get Involved →](https://github.com/testified/.github/blob/main/profile/community-links.md) |
+| Website | Visit our official website | [Visit →](https://testified.tcubed.group/) |
 
 ### 🌟 What We Offer
 
@@ -33,8 +34,18 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 | Testing | AI-Powered Test Automation |
 | Quality | Shift-Left Testing Practices |
 | DevOps | Infrastructure as Code (IaC) |
+| AI Research | AI-powered testing solutions |
 
-[View all trending topics →](trending-topics.md)
+[View all trending topics →](https://github.com/testified/.github/blob/main/profile/trending-topics.md)
+
+### 🚀 Our Services
+
+| Service | Description | Link |
+|---------|-------------|------|
+| QA Testing | End-to-end quality assurance services | [Learn More →](https://testified.tcubed.group/services/qa-testing) |
+| DevOps & SRE | DevOps transformation and site reliability engineering | [Learn More →](https://testified.tcubed.group/services/devops-sre) |
+| Automation | Process automation solutions for testing and deployment | [Learn More →](https://testified.tcubed.group/services/automation) |
+| AI Research | AI-powered testing and predictive analytics | [Learn More →](https://testified.tcubed.group/services/ai-research) |
 
 ### 🤝 Community & Resources
 
@@ -42,13 +53,20 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 |----------|-------------|--------|
 | Community Chat | Real-time discussions | [Join Discord][discord] |
 | Social Updates | News and announcements | [Follow Twitter][twitter] |
+| Professional Network | Connect with industry professionals | [Follow LinkedIn][linkedin] |
+| Open Source | Explore our projects | [Follow GitHub][github] |
 | Documentation | Technical guides and references | [Browse Docs →](https://docs.testified.io) |
-| Blog | Articles and insights | [Read More →](https://blog.testified.io) |
+| Blog | Articles and insights | [Read More →](https://testified.tcubed.group/blog) |
 
-[Explore all community resources →](community-links.md)
+[Explore all community resources →](https://github.com/testified/.github/blob/main/profile/community-links.md)
 
+### 📰 Latest Articles
 
-### 📰 Our Articles
+| Date | Title | Link |
+|------|-------|------|
+| April 25, 2024 | Building Effective Automated Testing Strategies | [Read More →](https://testified.tcubed.group/blog/building-effective-automated-testing-strategies) |
+| April 20, 2024 | Modern DevOps and SRE Practices for Scalable Systems | [Read More →](https://testified.tcubed.group/blog/modern-devops-sre-practices-scalable-systems) |
+| April 15, 2024 | Transforming Business Efficiency Through Intelligent Automation | [Read More →](https://testified.tcubed.group/blog/transforming-business-efficiency-intelligent-automation) |
 
 <!-- TESTIFIED-POST-LIST:START -->
 - [Building Effective Automated Testing Strategies](https://testified.tcubed.group/blog/automated-testing-strategies)
@@ -60,9 +78,19 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 <!-- TESTIFIED-POST-LIST:END -->
 ---
 
+### 📬 Contact Us
+
+| Method | Details |
+|--------|---------|
+| Email | [testified@tcubed.group](mailto:testified@tcubed.group) |
+| Location | Adelaide, South Australia |
+| Website | [Request a Consultation](https://testified.tcubed.group/contact) |
+
 <div align="center">
   <i>Quality is not an act, it is a habit. - Aristotle</i>
 </div>
 
 [discord]: https://discord.gg/testified
 [twitter]: https://twitter.com/testified
+[linkedin]: https://www.linkedin.com/company/testified
+[github]: https://github.com/testified
