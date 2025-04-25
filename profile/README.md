@@ -60,13 +60,8 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 [Explore all community resources →](https://github.com/testified/.github/blob/main/profile/community-links.md)
 
-### 📰 Latest Articles
+### 📰 Latest Posts
 
-| Date | Title | Link |
-|------|-------|------|
-| April 25, 2024 | Building Effective Automated Testing Strategies | [Read More →](https://testified.tcubed.group/blog/building-effective-automated-testing-strategies) |
-| April 20, 2024 | Modern DevOps and SRE Practices for Scalable Systems | [Read More →](https://testified.tcubed.group/blog/modern-devops-sre-practices-scalable-systems) |
-| April 15, 2024 | Transforming Business Efficiency Through Intelligent Automation | [Read More →](https://testified.tcubed.group/blog/transforming-business-efficiency-intelligent-automation) |
 
 <!-- TESTIFIED-POST-LIST:START -->
 - [Building Effective Automated Testing Strategies](https://testified.tcubed.group/blog/automated-testing-strategies)
