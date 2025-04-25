@@ -47,6 +47,11 @@ Testified is a vibrant community dedicated to advancing the practices of softwar
 
 [Explore all community resources →](community-links.md)
 
+
+### 📰 Our Articles
+
+<!-- TESTIFIED-POST-LIST:START -->
+<!-- TESTIFIED-POST-LIST:END -->
 ---
 
 <div align="center">
